@@ -74,8 +74,6 @@ Top 3 models (with default parameters)
 
     ***Note***: There is always a trade-off between precision and recall. Choosing the right metrics depends on the problem you are solving.
 
-    ***Conclusion***: Since the time I worked on this project (beginning 2022), we were in the longest bull market (excluding March 2020 flash crash) ever recorded; we will use recall as our metric.
-
 
  **Lessons learned and recommendation**
 
