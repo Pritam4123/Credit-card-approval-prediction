@@ -2,22 +2,6 @@
 
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
-![GitHub last commit](https://img.shields.io/github/last-commit/semasuka/Credit-card-approval-prediction-classification)
-![GitHub repo size](https://img.shields.io/github/repo-size/semasuka/Credit-card-approval-prediction-classification)
-![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Binary%20Classification-red)
-![License](https://img.shields.io/badge/License-MIT-green)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CfV6yEsHBjFiJbTKwY72k2g4AvszcF5R)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/semasuka/credit-card-approval-prediction-classification/main/cc_approval_pred.py)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-Badge [source](https://shields.io/)
-
-# Key findings: People with the highest income, and who have at least one partner, are more likely to be approved for a credit card.
-
-
-## Authors
-
-- [@semasuka](https://www.github.com/semasuka)
 
 ## Table of Contents
 
@@ -33,12 +17,6 @@ Badge [source](https://shields.io/)
   - [Deployment on streamlit](#deployment-on-streamlit)
   - [App deployed on Streamlit](#app-deployed-on-streamlit)
   - [Repository structure](#repository-structure)
-  - [Contribution](#contribution)
-  - [Blog post](#blog-post)
-  - [Project featuring](#project-featuring)
-  - [License](#license)
-
-
 
 
 ## Business problem
@@ -59,7 +37,6 @@ This app predicts if an applicant will be approved for a credit card or not. Eac
 
 - Python (refer to requirement.txt for the packages used in this project)
 - Streamlit (interface for the model)
-- AWS S3 (model storage)
 
 
 ## Quick glance at the results
@@ -222,43 +199,4 @@ Video to gif [tool](https://ezgif.com/)
 ├── requirements.txt                              <- list of all the dependencies with their versions(used for Streamlit).
 
 ```
-## Contribution
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
-
-## Blog post
-
-The accompanying blog post for this project can be found [here](https://semasuka.github.io/blog/2022/10/12/credit-card-approval-prediction.html)
-
-## Project featuring
-
-This project was featured on [Luke Barousse Youtube Channel](https://www.youtube.com/c/LukeBarousse), Click on the thumbnail to watch the video
-
-[![IMAGE_ALT](https://img.youtube.com/vi/5Q0gB7imNOo/0.jpg)](https://www.youtube.com/watch?v=5Q0gB7imNOo&t=222s)
-
-
-## License
-
-MIT License
-
-Copyright (c) 2022 Stern Semasuka
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-Learn more about [MIT](https://choosealicense.com/licenses/mit/) license
